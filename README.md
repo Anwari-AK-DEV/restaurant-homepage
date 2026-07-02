@@ -17,4 +17,4 @@ This is a static frontend design. Menu buttons and links are for UI demonstratio
 - CSS3
 
 ### Live Demo
-[View Live Site](https://restaurant-homepage.netlify.app)
+[View Live Site](https://restaurant-homepage-by-ak.netlify.app/)
